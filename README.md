@@ -17,6 +17,8 @@ https://github.com/chartjs/Chart.js
 
 https://www.tensorflow.org/js
 
+https://js.tensorflow.org/api/latest/
+
 ### TORCH.js
 
 https://github.com/torch-js/torch-js
