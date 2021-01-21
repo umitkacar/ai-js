@@ -21,6 +21,8 @@ https://www.tensorflow.org/js
 
 https://js.tensorflow.org/api/latest/
 
+https://storage.googleapis.com/tfjs-vis/mnist/dist/index.html
+
 ### TORCH.js
 
 https://github.com/torch-js/torch-js
