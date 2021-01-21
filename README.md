@@ -7,6 +7,8 @@ https://danfo.jsdata.org/
 
 https://github.com/opensource9ja/danfojs
 
+https://blog.tensorflow.org/2020/08/introducing-danfo-js-pandas-like-library-in-javascript.html
+
 ### CHART.js
 
 https://www.chartjs.org/
