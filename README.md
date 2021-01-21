@@ -16,3 +16,11 @@ https://github.com/chartjs/Chart.js
 ### TENSORFLOW.js
 
 https://www.tensorflow.org/js
+
+### TORCH.js
+
+https://github.com/torch-js/torch-js
+
+### PYTORCH-ONNX.js
+
+https://github.com/elliotwaite/pytorch-to-javascript-with-onnx-js
