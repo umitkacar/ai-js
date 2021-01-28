@@ -34,3 +34,7 @@ https://github.com/elliotwaite/pytorch-to-javascript-with-onnx-js
 ### JAVASCRIPT TUTORIAL
 
 https://javascript.info/
+
+### MAKE PACKAGE NPM
+
+https://medium.com/the-andela-way/build-and-publish-your-first-npm-package-a4daf0e2431
