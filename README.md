@@ -23,6 +23,8 @@ https://js.tensorflow.org/api/latest/
 
 https://storage.googleapis.com/tfjs-vis/mnist/dist/index.html
 
+https://github.com/tensorflow/tfjs/tree/master/tfjs-backend-wasm/starter/parcel
+
 ### TORCH.js
 
 https://github.com/torch-js/torch-js
@@ -44,3 +46,8 @@ https://medium.com/the-andela-way/build-and-publish-your-first-npm-package-a4daf
 https://ml5js.org/
 
 ### HANDTRACK.js
+
+### EXPRESS.JS
+
+https://expressjs.com/
+
