@@ -15,6 +15,12 @@ https://www.chartjs.org/
 
 https://github.com/chartjs/Chart.js
 
+### PLOTLY.js
+
+https://github.com/plotly/plotly.js
+
+https://plotly.com/javascript/
+
 ### TENSORFLOW.js
 
 https://www.tensorflow.org/js
