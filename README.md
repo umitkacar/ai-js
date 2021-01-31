@@ -31,6 +31,10 @@ https://storage.googleapis.com/tfjs-vis/mnist/dist/index.html
 
 https://github.com/tensorflow/tfjs/tree/master/tfjs-backend-wasm/starter/parcel
 
+### TFVIS.js
+
+https://js.tensorflow.org/api_vis/1.4.3/
+
 ### TORCH.js
 
 https://github.com/torch-js/torch-js
