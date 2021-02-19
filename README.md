@@ -67,3 +67,9 @@ https://expressjs.com/
 
 https://github.com/BrainJS/brain.js
 
+### PIXI.JS
+
+https://www.pixijs.com/
+
+https://filters.pixijs.download/main/docs/index.html
+
